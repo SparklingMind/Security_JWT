@@ -74,7 +74,7 @@ public class SecurityConfig {
 
                                 
                                  List<String> allowedOrigins = Arrays.asList(
-                                "http://3.36.91.244:3000",
+                                "http://13.124.82.231:3000",
                                 "http://grace24.o-r.kr:3000",
                                 "http://grace24.shop:3000",
                                 "http://localhost:3000"
